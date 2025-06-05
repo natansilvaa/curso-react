@@ -1,11 +1,11 @@
-import titulo from "./titulo"
+import titulo from "./Titulo"
 
 function App(){
   return (
     <div>
-      <titulo /> //não funcionou 
-      ola
+       <p> <Titulo /></p>
     </div>
+    
   )
   
 }

@@ -1,9 +1,12 @@
 import Titulo from "./Titulo"
+import Paragrafo from "./paragrafo"
 
 function App(){
   return (
     <div>
-      <Titulo /><Titulo />
+      <Titulo />
+      <Paragrafo />
+
     </div>
     
   )

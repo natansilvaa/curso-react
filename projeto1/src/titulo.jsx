@@ -6,7 +6,7 @@ function Titulo(){
     return (
         <div>
            <h1>oi eu sou {nome}</h1>
-           <img src={urlImg} />
+           <img width={100}  src={urlImg} />
            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, et provident sint aliquam aut, maxime omnis exercitationem, culpa porro dolorem explicabo modi dicta aliquid. Autem sed itaque rerum vitae asperiores?</p> 
            
         </div>

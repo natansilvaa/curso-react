@@ -1,9 +1,9 @@
-import titulo from "./Titulo"
+import Titulo from "./Titulo"
 
 function App(){
   return (
     <div>
-       <p> <Titulo /></p>
+      <Titulo /><Titulo />
     </div>
     
   )
